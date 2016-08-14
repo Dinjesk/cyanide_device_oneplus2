@@ -1,2 +1,1 @@
-# cyanide_device_oneplus2
-# cyanide_device_oneplus2
+cyanide device tree oneplus 2
