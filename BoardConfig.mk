@@ -215,3 +215,8 @@ TARGET_TAP_TO_WAKE_NODE := "/proc/touchpanel/double_tap_enable"
 
 # inherit from the proprietary version
 -include vendor/oneplus/oneplus2/BoardConfigVendor.mk
+
+# Toolchain Flags
+TARGET_CYANIDE_ROM := 4.9
+TARGET_NDK_CYANIDE_ROM := 4.9
+TARGET_GCC_VERSION_ARM64 := 4.9
